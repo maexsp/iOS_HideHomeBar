@@ -1,0 +1,2 @@
+# iOS_HideHomeBar
+Demo to reproduce XamarinForms bug with PreferredScreenEdgesDeferringSystemGestures
